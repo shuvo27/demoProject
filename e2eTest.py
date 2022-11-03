@@ -36,14 +36,14 @@ driver.find_element(By.XPATH,'//input[@class="btn btn-success btn-lg"]').click()
 print(driver.find_element(By.CLASS_NAME,'alert-success').text)
 
 driver.get_screenshot_as_file('screenshot.png')
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
-print("sdfghjkdkdkdkdkkdkddkdkdkdkdkdkdkddkdkddk")
+print("new new new")
+print("new new new")
+print("new new new")
+print("new new new")
+print("new new new")
+print("new new new")
+print("new new new")
+
+
+
+
