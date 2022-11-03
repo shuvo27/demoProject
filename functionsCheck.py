@@ -71,3 +71,5 @@ promoInfo = wait.until(expected_conditions.presence_of_all_elements_located((By.
 
 
 print(driver.find_element(By.CLASS_NAME, 'promoInfo').text)
+
+print("upadted")
